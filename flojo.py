@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+# sudo mv /home/guille/Escritorio/flojo/flojo.py /usr/local/bin/flojo
 import argparse
 import sys
 import pyperclip
